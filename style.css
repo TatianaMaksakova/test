@@ -1,0 +1,23 @@
+table {
+	/* background-color: lightblue; */
+    border-color: blue;
+	border-radius: 20px;
+	border-width: 2px;
+	border-style: solid;
+}
+
+td {
+	background-color: lightblue;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: green;
+}
+th {
+	background-color: violet;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: purple;
+	text-align: left;
+}
